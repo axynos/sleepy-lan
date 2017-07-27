@@ -1,0 +1,16 @@
+{
+  "name": "sleepy-lan",
+  "description": "Like Wake on Lan, but the opposite.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Silver Sten Kruus",
+  "license": "GNU GPLv3",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
